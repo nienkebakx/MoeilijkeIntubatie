@@ -2,7 +2,7 @@ Deze tool maakt gebruik van een referentie object om afstanden te bepalen.
 De GUI is te downloaden via: ....
 
 Werkwijze:
-1. Laad de gewenste foto in
+1. Kies de gewenste positie (links/rechts/mond open) en laad de gewenste foto in via 'Selecteer foto'
 2. Sleep de foto zodat het gezicht en het referentie object zichtbaar zijn
 3. Voorspel punten
 4. Selecteer referentie object: klik hiervoor op 'selecteer referentie object', klik vervolgens op het referentie object, en klik weer op 'selecteer referentie object'.
